@@ -4,16 +4,23 @@ app.py — SkillPilot AI entry point.
 Run with:  streamlit run app.py
 """
 
-# ── sys.path MUST be set before any local package imports ──
+# ── Fix Python path FIRST — before any local imports ──
+# Render runs from /opt/render/project/src/
+# We must ensure modules/ and models/ are importable.
 import sys
 import os
 from pathlib import Path
 
+# Project root = directory containing this file
 _ROOT = Path(__file__).resolve().parent
-if str(_ROOT) not in sys.path:
-    sys.path.insert(0, str(_ROOT))
-# Propagate to sub-processes / Streamlit page runner
-os.environ.setdefault("PYTHONPATH", str(_ROOT))
+
+# Add to sys.path if not already present
+for _p in [str(_ROOT), str(_ROOT / "modules"), str(_ROOT / "models")]:
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
+
+# Also set PYTHONPATH so Streamlit page processes inherit it
+os.environ["PYTHONPATH"] = str(_ROOT) + os.pathsep + os.environ.get("PYTHONPATH", "")
 
 import streamlit as st
 
