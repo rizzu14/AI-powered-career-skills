@@ -1,0 +1,5 @@
+{
+  "storage_backend": "csv",
+  "data_dir": "data/",
+  "sqlite_path": "data/skillpilot.db"
+}

@@ -1,0 +1,4 @@
+student_id,full_name,department,semester,skill_level,career_path,learning_goals,learning_preferences,created_at
+s001,Alice Nguyen,Computer Science,4,Intermediate,Data Analyst,Get an internship by next semester,Video,2024-01-01T00:00:00
+s002,Bob Patel,Mathematics,6,Beginner,Data Analyst,Learn enough to build a portfolio project,Project-based,2024-01-01T00:00:00
+s003,Clara Smith,Business Analytics,3,Beginner,Data Analyst,Understand data tools used in industry,Mixed,2024-01-01T00:00:00

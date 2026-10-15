@@ -1,0 +1,8 @@
+career_path,skill_name,target_score,description
+Data Analyst,Python,70,Ability to write Python scripts for data manipulation, automation, and analysis using libraries such as pandas and numpy
+Data Analyst,SQL,75,Proficiency in writing SQL queries to extract, filter, aggregate, and join data from relational databases
+Data Analyst,Excel,65,Competency in using Excel for data entry, pivot tables, formulas, and basic data visualisation
+Data Analyst,Statistics,70,Understanding of descriptive and inferential statistics including mean, median, variance, hypothesis testing, and probability distributions
+Data Analyst,Data_Visualization,65,Ability to create clear and informative charts and dashboards using tools such as Matplotlib, Seaborn, or Tableau to communicate insights effectively
+Data Analyst,Data_Cleaning,75,Skill in identifying and handling missing values, duplicates, outliers, and inconsistent data formats to ensure data quality before analysis
+Data Analyst,Communication_Analytical_Thinking,60,Ability to interpret analytical findings, draw logical conclusions, and present insights clearly to both technical and non-technical stakeholders

@@ -1,0 +1,42 @@
+[
+  {
+    "project_id": "p001",
+    "name": "Student Performance Analysis",
+    "objective": "Explore academic performance data to identify factors affecting student grades",
+    "required_skills": ["Python", "Statistics", "Data_Visualization", "Data_Cleaning"],
+    "tools": ["Python", "pandas", "matplotlib", "seaborn"],
+    "expected_output": "EDA report with visualizations and key academic insights"
+  },
+  {
+    "project_id": "p002",
+    "name": "Food Delivery Analysis",
+    "objective": "Analyze delivery times, ratings, and order trends from a food delivery dataset",
+    "required_skills": ["SQL", "Excel", "Data_Cleaning", "Data_Visualization"],
+    "tools": ["SQL", "Excel", "Tableau"],
+    "expected_output": "Dashboard summarizing delivery KPIs and trends"
+  },
+  {
+    "project_id": "p003",
+    "name": "Sales Dashboard",
+    "objective": "Build an interactive sales performance dashboard from transactional data",
+    "required_skills": ["Excel", "Data_Visualization", "Communication_Analytical_Thinking"],
+    "tools": ["Excel", "Power BI"],
+    "expected_output": "Interactive dashboard with slicers and KPI summary tiles"
+  },
+  {
+    "project_id": "p004",
+    "name": "Customer Churn Analysis",
+    "objective": "Identify patterns in customer churn using historical subscription data",
+    "required_skills": ["Python", "Statistics", "Data_Cleaning", "Communication_Analytical_Thinking"],
+    "tools": ["Python", "scikit-learn", "pandas"],
+    "expected_output": "Analysis report with churn drivers and a summary presentation"
+  },
+  {
+    "project_id": "p005",
+    "name": "Exploratory Data Analysis (EDA)",
+    "objective": "Perform open-ended EDA on a public dataset of the student's choice",
+    "required_skills": ["Python", "Statistics", "Data_Visualization", "Data_Cleaning"],
+    "tools": ["Python", "pandas", "matplotlib"],
+    "expected_output": "Jupyter notebook with documented findings and visualizations"
+  }
+]

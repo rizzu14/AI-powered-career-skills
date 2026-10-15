@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Pytest / Hypothesis
+.pytest_cache/
+.hypothesis/
+
+# Generated data (user profiles, scores, roadmaps — not committed)
+data/profiles.csv
+data/scores.csv
+data/task_statuses.csv
+data/roadmaps.json
+data/skillpilot.db
+
+# Logs
+logs/skillpilot.log
+
+# OS
+.DS_Store
+Thumbs.db

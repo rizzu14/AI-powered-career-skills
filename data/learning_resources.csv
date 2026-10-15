@@ -1,0 +1,15 @@
+resource_id,skill_name,title,url,type,estimated_hours,level,career_path
+r001,Python,Kaggle Python Course,https://www.kaggle.com/learn/python,Video,5,Beginner,Data Analyst
+r002,Python,Automate the Boring Stuff with Python,https://automatetheboringstuff.com,Book,8,Beginner,Data Analyst
+r003,SQL,Mode Analytics SQL Tutorial,https://mode.com/sql-tutorial,Article,4,Beginner,Data Analyst
+r004,SQL,SQLZoo Interactive Exercises,https://sqlzoo.net,Project-based,6,Intermediate,Data Analyst
+r005,Excel,Excel for Data Analysis – Coursera,https://www.coursera.org/learn/excel-data-analysis,Video,6,Beginner,Data Analyst
+r006,Excel,Microsoft Excel Official Support,https://support.microsoft.com/en-us/excel,Article,3,Beginner,Data Analyst
+r007,Statistics,Khan Academy Statistics,https://www.khanacademy.org/math/statistics-probability,Video,10,Beginner,Data Analyst
+r008,Statistics,Statistics for Data Science – Towards Data Science,https://towardsdatascience.com/statistics-for-data-science,Article,4,Beginner,Data Analyst
+r009,Data_Visualization,Plotly Python Documentation,https://plotly.com/python,Article,3,Beginner,Data Analyst
+r010,Data_Visualization,Storytelling with Data (Cole Knaflic),https://www.storytellingwithdata.com,Book,6,Intermediate,Data Analyst
+r011,Data_Cleaning,Kaggle Data Cleaning Course,https://www.kaggle.com/learn/data-cleaning,Video,4,Beginner,Data Analyst
+r012,Data_Cleaning,Tidy Data – Hadley Wickham,https://vita.had.co.nz/papers/tidy-data.html,Article,2,Intermediate,Data Analyst
+r013,Communication_Analytical_Thinking,Google Data Analytics Certificate,https://www.coursera.org/professional-certificates/google-data-analytics,Video,40,Beginner,Data Analyst
+r014,Communication_Analytical_Thinking,Naked Statistics – Charles Wheelan,https://www.amazon.com/dp/0393347818,Book,5,Beginner,Data Analyst
